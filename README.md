@@ -2,7 +2,7 @@
 This is my secundary account. Check my main account:
 
 
-* <a href = "https://github.com/LTheGreatest">MAIN ACCOUNT</a>
+* <a href = "https://github.com/LsFaria04">MAIN ACCOUNT</a>
 
 <!--
 **Lucas202207540/Lucas202207540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
